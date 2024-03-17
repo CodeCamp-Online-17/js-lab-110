@@ -1,7 +1,11 @@
-# js-lab-109
-### Lab109 Array: การหาผลรวม
-จงหาผลรวมของ element ใน array โดยใช้ forEach
+# js-lab-110
+### Lab110 Array: log ตามกำหนด
+ให้ใช้ forEach และ console.log ให้ได้ผลลัพธ์แบบใน comment ด้านล่าง
 
 ```JavaScript
-const array = [29, 17, 13, 47, 23, 31];
+const names = ['Mike', 'Sid', 'Jack', 'Bill'];
+// 1. Mike
+// 2. Sid
+// 3. Jack
+// 4. Bill
 ```
